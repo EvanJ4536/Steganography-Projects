@@ -11,3 +11,4 @@ The goal of steganography is:
 **Substitution**  
 &nbsp;Least Significant Bit  
 &nbsp;Duplicate Palette  
+&nbsp;Palette LSB
